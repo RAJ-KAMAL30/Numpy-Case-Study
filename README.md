@@ -14,19 +14,7 @@ To get started, follow these steps to install Anaconda, which includes NumPy and
 Once Anaconda is installed, you can launch the Jupyter Notebook app by following these steps:
 
 1. Open a terminal or command prompt.
-2. Type the following command and press Enter:
-
-
-
-
-
-
-
-
-## Command
-jupyter notebook
-## 
-
+2. Type the following command and press Enter: **jupyter notebook**
 3. This will open the Jupyter Notebook app in your default web browser.
 
 # Creating a New Jupyter Notebook
